@@ -1,0 +1,7 @@
+{
+  "name": "IronTrack AI - Gym & Workout Manager",
+  "description": "A high-performance workout tracking and gym management application with AI-powered routine analysis and exercise suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
